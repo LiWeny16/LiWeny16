@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Onion
-## 👀 I’m interested in html javascipt css node.js php.....
+## 👀 I’m interested in typescript javascipt node.js .....
 ## 🌱 I’m currently learning docker
 ## 💞️ I’m studying in UESTC
 ## 📫 Sending mail to Olderonion@gmail.com/a454888395@gmail.com  with the confirmed infomation:"github.com" is the way to contact me!
