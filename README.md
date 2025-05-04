@@ -6,8 +6,6 @@
   <img src="https://img.shields.io/github/stars/LiWeny16?style=social" alt="GitHub Stars" />
 </div>
 
----
-
 ## 🌟 Featured Projects
 
 <div align="center">
@@ -18,7 +16,6 @@
 
 </div>
 
----
 
 ## 📊 GitHub Stats
 
@@ -27,7 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiWeny16&layout=compact&theme=default" alt="Top Languages" />
 </div>
 
----
 
 ## 🛠️ Skills
 
@@ -38,7 +34,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
----
 
 ## 📫 Contact Me
 
