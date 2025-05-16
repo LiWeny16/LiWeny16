@@ -13,6 +13,7 @@
 [![MarkdownOnline](https://github-readme-stats.vercel.app/api/pin/?username=LiWeny16&repo=MarkdownOnline&theme=default)](https://github.com/LiWeny16/MarkdownOnline)
 [![LetShare](https://github-readme-stats.vercel.app/api/pin/?username=LiWeny16&repo=LetShare&theme=default)](https://github.com/LiWeny16/LetShare)
 [![chatGPT-tool-plus](https://github-readme-stats.vercel.app/api/pin/?username=LiWeny16&repo=chatGPT-tool-plus&theme=default)](https://github.com/LiWeny16/chatGPT-tool-plus)
+[![ai_based_remote_control_car](https://github-readme-stats.vercel.app/api/pin/?username=LiWeny16&repo=ai_based_remote_control_car_arduino_mega2560&theme=default)](https://github.com/LiWeny16/ai_based_remote_control_car_arduino_mega2560)
 
 </div>
 
