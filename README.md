@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- 炫酷打字机效果 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3C7DD9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+there!+I'm+Onion;Master+Student+in+Singapore;Embedded+%26+AI+Developer;Robotics+%7C+ROS2+%7C+Deep+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3C7DD9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+there!+I'm+Onion;UESTC_NUS+Student" alt="Typing SVG" />
 
 ---
 
@@ -39,8 +39,14 @@
 
 ---
 
-## 📊 **GitHub Statistics (Self-Hosted & Never Down!)**
+## 📊 **GitHub Statistics**
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiWeny16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiWeny16&layout=compact&langs_count=8&theme=dracula"/>
+</div>
+
+<!-- 自托管统计：请运行 GitHub Actions 生成图片后可启用
 <div align="center">
   <img src="https://github.com/LiWeny16/LiWeny16/blob/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile Details" />
   <img src="https://github.com/LiWeny16/LiWeny16/blob/main/profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Repos Per Language" />
@@ -48,6 +54,7 @@
   <img src="https://github.com/LiWeny16/LiWeny16/blob/main/profile-summary-card-output/dracula/3-stats.svg" alt="Stats" />
   <img src="https://github.com/LiWeny16/LiWeny16/blob/main/profile-summary-card-output/dracula/4-productive-time.svg" alt="Productive Time" />
 </div>
+-->
 
 ---
 
@@ -136,6 +143,7 @@
 </tr>
 </table>
 
+<!-- Advanced GitHub Metrics - 请先运行 GitHub Actions 生成图片
 ---
 
 ## 📈 **Advanced GitHub Metrics**
@@ -143,6 +151,7 @@
 <div align="center">
   <img src="https://github.com/LiWeny16/LiWeny16/blob/main/github-metrics.svg" alt="Detailed GitHub Metrics" width="100%" />
 </div>
+-->
 
 ---
 
