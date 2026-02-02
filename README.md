@@ -131,14 +131,6 @@
 
 ---
 
-## 📈 **Advanced GitHub Metrics**
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/LiWeny16/LiWeny16/main/github-metrics.svg" alt="Detailed GitHub Metrics" style="max-width: 100%;" />
-</div>
-
----
-
 ## 🛠️ **Tech Arsenal - Full Stack Mastery**
 
 <div align="center">
