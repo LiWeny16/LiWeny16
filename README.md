@@ -39,22 +39,15 @@
 
 ---
 
-## 📊 **GitHub Statistics**
+## 📊 **GitHub Statistics (Self-Hosted & Never Down!)**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiWeny16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiWeny16&layout=compact&langs_count=8&theme=dracula"/>
+  <img src="https://raw.githubusercontent.com/LiWeny16/LiWeny16/main/profile-summary-card-output/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/LiWeny16/LiWeny16/main/profile-summary-card-output/1-repos-per-language.svg" alt="Repos Per Language" />
+  <img src="https://raw.githubusercontent.com/LiWeny16/LiWeny16/main/profile-summary-card-output/2-most-commit-language.svg" alt="Most Commit Language" />
+  <img src="https://raw.githubusercontent.com/LiWeny16/LiWeny16/main/profile-summary-card-output/3-stats.svg" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/LiWeny16/LiWeny16/main/profile-summary-card-output/4-productive-time.svg" alt="Productive Time" />
 </div>
-
-<!-- 自托管统计：请运行 GitHub Actions 生成图片后可启用
-<div align="center">
-  <img src="https://github.com/LiWeny16/LiWeny16/blob/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile Details" />
-  <img src="https://github.com/LiWeny16/LiWeny16/blob/main/profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Repos Per Language" />
-  <img src="https://github.com/LiWeny16/LiWeny16/blob/main/profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Most Commit Language" />
-  <img src="https://github.com/LiWeny16/LiWeny16/blob/main/profile-summary-card-output/dracula/3-stats.svg" alt="Stats" />
-  <img src="https://github.com/LiWeny16/LiWeny16/blob/main/profile-summary-card-output/dracula/4-productive-time.svg" alt="Productive Time" />
-</div>
--->
 
 ---
 
@@ -143,15 +136,13 @@
 </tr>
 </table>
 
-<!-- Advanced GitHub Metrics - 请先运行 GitHub Actions 生成图片
 ---
 
 ## 📈 **Advanced GitHub Metrics**
 
 <div align="center">
-  <img src="https://github.com/LiWeny16/LiWeny16/blob/main/github-metrics.svg" alt="Detailed GitHub Metrics" width="100%" />
+  <img src="https://raw.githubusercontent.com/LiWeny16/LiWeny16/main/github-metrics.svg" alt="Detailed GitHub Metrics" width="100%" />
 </div>
--->
 
 ---
 
