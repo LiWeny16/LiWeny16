@@ -1,8 +1,8 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  schedule: # 每天 UTC 0点更新
-    - cron: "0 0 * * *"
+  schedule: # 每月1号 UTC 0点更新
+    - cron: "0 0 1 * *"
   workflow_dispatch:
 
 jobs:

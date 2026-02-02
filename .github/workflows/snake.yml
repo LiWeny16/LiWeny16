@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # 每天更新
+    - cron: "0 0 1 * *"  # 每月1号更新
   workflow_dispatch:
 
 jobs:
