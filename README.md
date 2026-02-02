@@ -20,14 +20,6 @@
 
 ---
 
-## 🏆 **GitHub Trophy**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LiWeny16&theme=dracula&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophy" />
-</div>
-
----
-
 ## 🐍 **Contribution Snake - Watch My Code Crawl!**
 <div align="center">
   <picture>
@@ -42,11 +34,12 @@
 ## 📊 **GitHub Statistics (Self-Hosted & Never Down!)**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LiWeny16/LiWeny16/main/profile-summary-card-output/0-profile-details.svg" alt="Profile Details" />
-  <img src="https://raw.githubusercontent.com/LiWeny16/LiWeny16/main/profile-summary-card-output/1-repos-per-language.svg" alt="Repos Per Language" />
-  <img src="https://raw.githubusercontent.com/LiWeny16/LiWeny16/main/profile-summary-card-output/2-most-commit-language.svg" alt="Most Commit Language" />
-  <img src="https://raw.githubusercontent.com/LiWeny16/LiWeny16/main/profile-summary-card-output/3-stats.svg" alt="Stats" />
-  <img src="https://raw.githubusercontent.com/LiWeny16/LiWeny16/main/profile-summary-card-output/4-productive-time.svg" alt="Productive Time" />
+  <img src="https://raw.githubusercontent.com/LiWeny16/LiWeny16/main/profile-summary-card-output/2077/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/LiWeny16/LiWeny16/main/profile-summary-card-output/2077/1-repos-per-language.svg" alt="Repos Per Language" />
+  <img src="https://raw.githubusercontent.com/LiWeny16/LiWeny16/main/profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Commit Language" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/LiWeny16/LiWeny16/main/profile-summary-card-output/2077/3-stats.svg" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/LiWeny16/LiWeny16/main/profile-summary-card-output/2077/4-productive-time.svg" alt="Productive Time" />
 </div>
 
 ---
@@ -141,7 +134,7 @@
 ## 📈 **Advanced GitHub Metrics**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LiWeny16/LiWeny16/main/github-metrics.svg" alt="Detailed GitHub Metrics" width="100%" />
+  <img src="https://raw.githubusercontent.com/LiWeny16/LiWeny16/main/github-metrics.svg" alt="Detailed GitHub Metrics" style="max-width: 100%;" />
 </div>
 
 ---
