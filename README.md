@@ -1,9 +1,7 @@
 <div align="center">
   
 <!-- 炫酷打字机效果 -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3C7DD9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=👋+Hey+there!+I'm+Onion;Master+Student+%7C+Singapore;Embedded+%26+AI+Developer;Robotics+%7C+ROS2+%7C+Deep+Learning" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3C7DD9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+there!+I'm+Onion;Master+Student+in+Singapore;Embedded+%26+AI+Developer;Robotics+%7C+ROS2+%7C+Deep+Learning" alt="Typing SVG" />
 
 ---
 
@@ -23,8 +21,9 @@
 ---
 
 ## 🏆 **GitHub Trophy**
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LiWeny16&theme=dracula&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LiWeny16&theme=dracula&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophy" />
 </div>
 
 ---
